@@ -10,7 +10,7 @@ export function Layout({ children }: PropsWithChildren) {
       </main>
       <footer className="border-t backdrop-blur supports-[backdrop-filter]:bg-background/60 py-12">
         <div className="container mx-auto px-4 text-center text-gray-500 dark:text-gray-200">
-          <p>© 2025 Laldingliana Tlau Vantawl. All rights reserved.</p>
+          <p>© 2025 Laldingliana Tlau Vantawl</p>
         </div>
       </footer>
     </div>
