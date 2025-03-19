@@ -11,7 +11,7 @@ export function Header() {
       <div className="container mx-auto flex h-16 items-center justify-between px-4">
         <Link to={'https://lalding.in/'}>
           <img
-            src={theme === 'dark' ? '/lalding.jpg' : '/lalding.jpg'}
+            src={theme === 'dark' ? '/lalding-bw.jpg' : '/lalding.jpg'}
             alt="Lalding's logo"
             className="h-14 w-14 rounded-full"
           />
