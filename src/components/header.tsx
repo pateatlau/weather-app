@@ -9,11 +9,11 @@ export function Header() {
   return (
     <header className="sticky top-0 z-50 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60 py-2">
       <div className="container mx-auto flex h-16 items-center justify-between px-4">
-        <Link to={'/'}>
+        <Link to={'https://lalding.in/'}>
           <img
-            src={theme === 'dark' ? '/logo.png' : '/logo2.png'}
-            alt="Klimate logo"
-            className="h-14"
+            src={theme === 'dark' ? '/lalding.jpg' : '/lalding.jpg'}
+            alt="Lalding's logo"
+            className="h-14 w-14 rounded-full"
           />
         </Link>
 
