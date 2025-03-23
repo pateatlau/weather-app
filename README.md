@@ -12,7 +12,7 @@
 
 ## Overview
 
-This is a simple weather app built using React, Typescript, Tailwind CSS, Shadcn, Vite, Tanstack Query, and Recharts. The app allows users to search for weather information and display it in a visually appealing way.
+A weather app built using React, Typescript, Tailwind CSS, Shadcn, Vite, Tanstack Query, and Recharts. The app allows users to search for weather information and display it in a visually appealing way.
 
 ## Features
 
